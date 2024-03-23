@@ -1,0 +1,9 @@
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+@layer base {
+	html {
+		@apply bg-black;
+	}
+}
